@@ -19,7 +19,7 @@ body
 
      display: grid;
      place-items: center;
-     background-color: #ebebeb;
+     background-color: #f8f5f5;
 }
 .tittle{
     margin: 20px 0;
@@ -96,7 +96,7 @@ body
 {
     border-radius: 20px 20px 0px 20px;
     align-self: flex-end;
-    background-color: #2d2d2d;
+    background-color: #3e3d3d;
     box-shadow: -2px 2px 4px #dcdcdc;
     color: #f6f6f6;
 
@@ -148,8 +148,9 @@ body
     border: none;
     padding: 0px 20px;
     outline: none;
-    background-color: #fff;
+    background-color: #c0c8c9;
     cursor: pointer;
+    font-family:'Open Sans', sans-serif;
 
 }
 
